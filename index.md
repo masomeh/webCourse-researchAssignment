@@ -6,8 +6,8 @@
 
 
 @font-face{
- font-family: 'page_font';
- src:url(Far_nazanin.ttf);
+ font-family:'page_font';
+ src:url('Far_nazanin.ttf');
 }
 div{
 direction: rtl;
