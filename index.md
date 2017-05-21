@@ -3,9 +3,12 @@
 <html>
 <head>
 <style>
+
+<!-- body{ -->
+<!--    font-family: 'Open Sans',serif -->
 @font-face{
  font-family: 'page_font';
- src:url('BNazanin.ttf')
+ src:url(https://fonts.googleapis.com/css?family=Open+Sans);
 }
 div{
 direction: rtl;
