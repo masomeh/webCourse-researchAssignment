@@ -2,9 +2,11 @@
 
 
 <style>
+div{
 direction: rtl;
+}
 </style>
-direction addedd
+direction added
 
 <div>
 به نام خدا
