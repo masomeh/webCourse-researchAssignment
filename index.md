@@ -4,7 +4,8 @@
 <style>
 div{
 direction: rtl;
-text-align: justify
+text-align: justify;
+padding:5px;
 }
 </style>
 
