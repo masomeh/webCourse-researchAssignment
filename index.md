@@ -4,11 +4,10 @@
 <head>
 <style>
 
-<!-- body{ -->
-<!--    font-family: 'Open Sans',serif -->
+
 @font-face{
  font-family: 'page_font';
- src:url(https://fonts.googleapis.com/css?family=Open+Sans);
+ src:url(Far_nazanin.ttf);
 }
 div{
 direction: rtl;
