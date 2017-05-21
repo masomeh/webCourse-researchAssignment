@@ -1,13 +1,20 @@
 ## Offline First – A better HTML5 User Experience 
 
-
+<html>
+<head>
 <style>
+@font-face{
+ font-family: 'page_font';
+ src:url('BNazanin.ttf')
+}
 div{
 direction: rtl;
 text-align: justify;
+font-family:'page_font';
 }
 </style>
-
+</head>
+<body>
 <div dir="RTL">
  <br>
 <b>offline</b> بودن یک برنامه - که به معنی این است که وقتی به اینترنت دسترسی نداریم (برخط نیستیم) نیز بتوانیم از آن استفاده کنیم و پس از اتصال به اینترنت بتوانیم آن را همگام کنیم - یک ویژگی اساسی آن برنامه است که ضروریست از ابتدای نوشتن آن در نظر گرفته شود و در ادامه نیز این قابلیت را پیاده کرد.
@@ -43,3 +50,5 @@ text-align: justify;
 ۹۲۱۰۶۴۶۴
 
 </div>
+</body>
+</html>
