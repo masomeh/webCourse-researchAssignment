@@ -26,8 +26,8 @@ direction: rtl;
 این شی بعد از فرستادن درخواست ها، پاسخ را دریافت کرده و آن راپردازش می کند که این پردازش شامل ایندکس گذاری نتایج برای بازیابی سریع آن ها و همگام ساختن داده های ذخیره شده در زمانی است که اتصال اینترنتی نداشتیم یا برگرداندن ساختار داده های خوشایند در زمانی است که هیچ داده ای در دسترس نباشد. 
 پس در حالت کلی بهتر است که درخواست ها را از طریق این proxy object بفرستیم و در اینصورت خواهیم توانست که به آسانی داده ها را به صورت محلی cache کنیم.
 
-منبع: [Offline First – A better HTML5 User Experience ](http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/) 
-
+منبع:<a href="http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/">Offline First – A better HTML5 User Experience</a>
+<br>
 معصومه سلیمانی
 ۹۲۱۰۶۴۶۴
 
