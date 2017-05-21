@@ -4,10 +4,10 @@
 <style>
 div{
 direction: rtl;
-text-align: justify;
+text-align: right;
 }
 </style>
-jnj
+jnjh
 <div dir="RTL">
 
  <br>
