@@ -4,6 +4,7 @@
 <style>
 div{
 direction: rtl;
+text-align: justify
 }
 </style>
 
