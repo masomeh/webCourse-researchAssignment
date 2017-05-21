@@ -1,5 +1,9 @@
 ## Offline First – A better HTML5 User Experience 
 
+<style>
+direction:rtl;
+</style>
+
 به نام خدا
 
  
