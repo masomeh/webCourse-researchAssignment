@@ -1,10 +1,10 @@
 ## Offline First – A better HTML5 User Experience 
 
-<style>
-direction:rtl;
-</style>
 
-direction added
+<style>
+direction: rtl;
+</style>
+direction addeddd
 
 به نام خدا
 
