@@ -4,6 +4,8 @@
 direction:rtl;
 </style>
 
+direction added
+
 به نام خدا
 
  
