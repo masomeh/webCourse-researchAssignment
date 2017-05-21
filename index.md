@@ -7,7 +7,7 @@
 
 @font-face{
  font-family:'page_font';
- src:url('Far_nazanin.ttf');
+ src:url('Far_Nazanin.ttf');
 }
 div{
 direction: rtl;
